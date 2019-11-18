@@ -27,6 +27,9 @@ const siteConfig = {
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
+  onPageNav: 'separate',
+  
+  docsSideNavCollapsible: true,
   users,
   /* path to images for header/footer */
   headerIcon: 'img/analysis.png',

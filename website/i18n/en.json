@@ -6,8 +6,8 @@
     "tagline": "Proof of Concept",
     "docs": {
       "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
+        "title": "Sobre o docusaurus",
+        "sidebar_label": "O que é"
       },
       "doc2": {
         "title": "document number 2"
@@ -37,10 +37,11 @@
       "Blog": "Blog"
     },
     "categories": {
+      "Docusaurus": "Docusaurus",
       "Casos de Uso": "Casos de Uso",
-      "First Category": "First Category",
-      "Second Category": "Second Category",
-      "pega por favor": "pega por favor"
+      "Manual do usuário": "Manual do usuário",
+      "pega por favor": "pega por favor",
+      "First Category": "First Category"
     }
   },
   "pages-strings": {

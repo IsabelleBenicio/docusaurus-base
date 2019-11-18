@@ -1,9 +1,10 @@
 {
   "docs": {
-    "Casos de Uso": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"],
+    "Docusaurus": ["doc1"],
+    "Casos de Uso": ["doc2"],
+    "Manual do usuário": ["doc3"],
     "pega por favor": ["doc6","doc7"]
+
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
