@@ -16,8 +16,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
+  title: 'POC' /* title for your website */,
+  tagline: 'Proof of Concept',
   url: 'https://facebook.github.io' /* your website url */,
   baseUrl: '/test-site/' /* base url for your project */,
   projectName: 'test-site',
@@ -29,13 +29,13 @@ const siteConfig = {
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/analysis.png',
+  footerIcon: 'img/analysis.png',
   favicon: 'img/favicon.png',
   /* colors for website */
   colors: {
-    primaryColor: '#2E8555',
-    secondaryColor: '#205C3B',
+    primaryColor: '#0B5351',
+    secondaryColor: '#00CBCB',
   },
   /* custom fonts for website */
   /*fonts: {

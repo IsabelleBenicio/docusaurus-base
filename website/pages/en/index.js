@@ -80,9 +80,10 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
+            <Button href={docUrl('doc1.html', language)}>Documentação</Button>
+            <Button href={docUrl('doc2.html', language)}>Manuais de Usuários</Button>
+            <Button href={docUrl('doc6.html', language)}>Style Guide</Button>
             <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html', language)}>Example Link</Button>
-            <Button href={docUrl('doc2.html', language)}>Example Link 2</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -104,15 +105,21 @@ const Features = props => (
     {[
       {
         content: 'This is the content of my feature',
-        image: imgUrl('docusaurus.svg'),
+        image: imgUrl('graph.svg'),
         imageAlign: 'top',
-        title: 'Feature One',
+        title: 'Versionamento de Documentação',
       },
       {
         content: 'The content of my second feature',
-        image: imgUrl('docusaurus.svg'),
+        image: imgUrl('search (1).svg'),
         imageAlign: 'top',
-        title: 'Feature Two',
+        title: 'Busca Facilitada',
+      },
+      {
+        content: 'The content of my second feature',
+        image: imgUrl('files.svg'),
+        imageAlign: 'top',
+        title: 'Padronização',
       },
     ]}
   </Block>

@@ -3,20 +3,45 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "A website for testing",
-    "doc1": "Latin-ish",
-    "Example Page": "Example Page",
-    "doc2": "document number 2",
-    "doc3": "This is document number 3",
-    "doc4": "Other Document",
-    "doc5": "Fifth Document",
-    "Docs": "Docs",
-    "API": "API",
-    "Help": "Help",
-    "Blog": "Blog",
-    "Docusaurus": "Docusaurus",
-    "First Category": "First Category",
-    "Second Category": "Second Category"
+    "tagline": "Proof of Concept",
+    "docs": {
+      "doc1": {
+        "title": "Latin-ish",
+        "sidebar_label": "Example Page"
+      },
+      "doc2": {
+        "title": "document number 2"
+      },
+      "doc3": {
+        "title": "This is document number 3"
+      },
+      "doc6": {
+        "title": "Isso é um teste",
+        "sidebar_label": "pega-pfvr"
+      },
+      "doc7": {
+        "title": "Pega pow",
+        "sidebar_label": "loucura meu"
+      },
+      "doc4": {
+        "title": "Other Document"
+      },
+      "doc5": {
+        "title": "Fifth Document"
+      }
+    },
+    "links": {
+      "Docs": "Docs",
+      "API": "API",
+      "Help": "Help",
+      "Blog": "Blog"
+    },
+    "categories": {
+      "Casos de Uso": "Casos de Uso",
+      "First Category": "First Category",
+      "Second Category": "Second Category",
+      "pega por favor": "pega por favor"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
