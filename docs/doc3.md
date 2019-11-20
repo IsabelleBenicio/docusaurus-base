@@ -1,13 +1,24 @@
 ---
 id: doc3
-title: This is document number 3
+title: Renovação de Licença Ambiental 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+## Renovação de Licença Ambiental 
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+* Siga o passo a passo para entender como acompanhar o seu processo de renovação de licença ambiental 
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+### Acesso ao site 
+1. Para acompanhar o seu protocolo é necessário acessar o portal do [Slim Manaus](https://deve-cinco-slim.manaus.am.gov.br/)
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+![](https://lh3.googleusercontent.com/-A0Bw3B7UXsY/XdWg32RSNbI/AAAAAAAAAEI/oag1FzM1NLELAfUb7wRbSkjEzmCmhuWWwCK8BGAsYHg/s0/2019-11-20.gif)
+
+### Acompanhar protocolo 
+2. Ao acessar o site do [Slim Manaus](https://deve-cinco-slim.manaus.am.gov.br/) o contribuinte irá acessar a parte de renovação de licença ambiental e clicar em acompanhamento de Licença ambiental 
+
+![](https://lh3.googleusercontent.com/-6TEQx7lFy1U/XdWg6U6Vm6I/AAAAAAAAAEM/YrRRUu7SbV4Mdw9zbruGhXkajOVV4ONbwCK8BGAsYHg/s0/2019-11-20.gif)
+
+--------
+3. Ao acessar o acompanhamento o contribuinte deve informa o protocolo gerado anteriormente
+
+![](https://lh3.googleusercontent.com/-NaxI220JPqg/XdWg8CMGbxI/AAAAAAAAAEQ/X43EUn3abnkwql_7hWvWhdi3-IoTxmUWACK8BGAsYHg/s0/2019-11-20.gif)
+

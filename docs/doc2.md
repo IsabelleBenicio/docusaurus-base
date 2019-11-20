@@ -1,7 +1,6 @@
 ---
 id: doc2
 title: Caso de Uso 001 <Nome Ficticio> 
-sidebar:  Especificação UC
 ---
 ## OBJETIVO
 Este item descreve o objeto do documento e não do projeto. O objetivo do projeto deve ser descrito em um documento conhecido como "documento de visão". Os textos em itálico são explicações de como preencher este documento e precisam ser removidos
@@ -31,33 +30,34 @@ Listar as pós-condições, ou seja, o resultado do caso de uso. Muitas vezes, f
 ## REFERÊNCIAS
 
 Não se deve anexar documentos padrões do projeto como Atas de Reunião, Cronograma, Documento de Visão, Documento de Arquitetura, Documento de Especificação de Tela, Manual de Integração, etc. Se for necessário alguma referência a um desses documentos, deve-se relacionar o documento e a seção específica onde está a informação útil. No caso de não haver informações a serem inseridas, escrever “Não se aplica.” 
-
-    Ex.: 
-        VOX_PROJETO_EspecificacaoDeTela_Assunto_Versao_NumRedmine
+  
+Ex.: 
+[EspecificacaoDeTela_Assunto_Versao_NumRedmine](doc6)
 
 ## FLUXOS DE EVENTOS 
 ### Fluxo Básico
 #### S01 - <Título do Subfluxo>
 Ex:
-B1.	Esse caso de uso se inicia quando o analista deseja consultar o relatório de consultas prévias indeferidas;  
-B2.	O sistema carrega a tela com as opções de filtros; [1]Tela 1 - Filtros;   
+B1.	xxxxx 
 
-B3.	O analista informa os dados e escolhe a opção gerar relatório; [FA01]  
+B2.	xxxxx 
 
-B4.	O sistema recupera e exibe o resultado da consulta; [FE01] [1]Tela 2 - Relatório de Consultas Prévias Indeferidas;   
+B3.	xxxxx   
 
-B5.	O caso de uso se encerra. 
+B4.	xxxxx  
+
+B5.	xxxxx 
 
 ### Fluxos Alternativos 
 #### FE01 - <Título da exceção> 
 Ex:
-A1.	O fluxo alternativo inicia quando o analista deseja consultar o relatório de consultas prévias indeferidas por analista;  
+A1.	xxxxx 
 
-A2.	O analista informa os dados e escolhe a opção gerar relatório;   
+A2.	xxxxx 
 
-A3.	O sistema recupera e exibe o resultado da consulta; [FE01] [1]Tela 3 - Relatório de Consultas Prévias Indeferidas por Analista  
+A3. xxxxx 
 
-A4.	O fluxo alternativo se encerra.
+A4. xxxxx 
 ### Fluxos de Exceção
 EX:  
 
@@ -86,4 +86,18 @@ Ex.: No passo xxxx do Fluxo (Básico ou FAxx) este caso de uso inclui o caso de 
 
 ## INFORMAÇÕES ADICIONAIS
 
-![](static\img\analysis.png)
+![docusaurus](../website/static/img/docusaurosarq.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

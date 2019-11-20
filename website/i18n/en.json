@@ -9,19 +9,27 @@
         "title": "Sobre o docusaurus",
         "sidebar_label": "O que é"
       },
+      "doc10": {
+        "title": "Glossário",
+        "sidebar_label": "Glossário"
+      },
       "doc2": {
         "title": "Caso de Uso 001 <Nome Ficticio>"
       },
       "doc3": {
-        "title": "This is document number 3"
+        "title": "Renovação de Licença Ambiental"
       },
       "doc6": {
-        "title": "Isso é um teste",
-        "sidebar_label": "pega-pfvr"
+        "title": "Espcx de Tela 001 <Nome Ficticio>",
+        "sidebar_label": "Espcx de Tela 001 <Nome Ficticio>"
       },
       "doc7": {
         "title": "Pega pow",
         "sidebar_label": "loucura meu"
+      },
+      "doc9": {
+        "title": "PlanTrab 001 <Nome Ficticio>",
+        "sidebar_label": "PlanTrab 001 <Nome Ficticio>"
       },
       "doc4": {
         "title": "Other Document"
@@ -38,9 +46,8 @@
     },
     "categories": {
       "Docusaurus": "Docusaurus",
-      "Casos de Uso": "Casos de Uso",
+      "Documentação": "Documentação",
       "Manual do usuário": "Manual do usuário",
-      "pega por favor": "pega por favor",
       "First Category": "First Category"
     }
   },
