@@ -32,7 +32,7 @@
         "sidebar_label": "PlanTrab 001 <Nome Ficticio>"
       },
       "doc4": {
-        "title": "Other Document"
+        "title": "Assinatura Eletronica"
       },
       "doc5": {
         "title": "Fifth Document"
@@ -48,6 +48,7 @@
       "Docusaurus": "Docusaurus",
       "Documentação": "Documentação",
       "Manual do usuário": "Manual do usuário",
+      "Processos Eletrônicos": "Processos Eletrônicos",
       "First Category": "First Category"
     }
   },

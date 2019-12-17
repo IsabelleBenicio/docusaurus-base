@@ -43,7 +43,7 @@ Button.defaultProps = {
 };
 
 const SplashContainer = props => (
-  <div className="homeContainer">
+  <div className="homeContainer" >
     <div className="homeSplashFade">
       <div className="wrapper homeWrapper">{props.children}</div>
     </div>
@@ -76,14 +76,12 @@ class HomeSplash extends React.Component {
     let language = this.props.language || '';
     return (
       <SplashContainer>
-        <Logo img_src={imgUrl('download.png')} />
+        <Logo img_src={imgUrl('banner.png')} />
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
             <Button href={docUrl('doc1.html', language)}>Docusaurus</Button>
-            <Button href={docUrl('doc2.html', language)}>Documentação</Button>
-            <Button href={docUrl('doc3.html', language)}>Manuais de Usuários</Button>
-           </PromoSection>
+          </PromoSection>
         </div>
       </SplashContainer>
     );
@@ -104,19 +102,19 @@ const Features = props => (
     {[
       {
         content: 'This is the content of my feature',
-        image: imgUrl('graph.svg'),
+        image: imgUrl('ico-01.png'),
         imageAlign: 'top',
         title: 'Versionamento de Documentação',
       },
       {
         content: 'The content of my second feature',
-        image: imgUrl('search (1).svg'),
+        image: imgUrl('ico-02.png'),
         imageAlign: 'top',
         title: 'Busca Facilitada',
       },
       {
         content: 'The content of my second feature',
-        image: imgUrl('files.svg'),
+        image: imgUrl('ico-03.png'),
         imageAlign: 'top',
         title: 'Padronização',
       },
@@ -133,11 +131,6 @@ class Index extends React.Component {
         <HomeSplash language={language} />
         <div className="mainContainer">
           <Features />
-        
-        
-        
-        
-          
         </div>
       </div>
     );

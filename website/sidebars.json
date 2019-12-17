@@ -2,11 +2,12 @@
   "docs": {
     "Docusaurus": ["doc1"],
     "Documentação": ["doc2","doc6","doc9","doc10"],
-    "Manual do usuário": ["doc3"]
+    "Manual do usuário": ["doc3"],
+    "Processos Eletrônicos": ["doc4"]
     
 
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "First Category": ["doc5"]
   }
 }

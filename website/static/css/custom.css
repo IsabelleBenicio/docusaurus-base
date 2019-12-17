@@ -14,3 +14,10 @@
 
 @media only screen and (min-width: 1500px) {
 }
+
+.homeContainer{
+top: -30px;
+left: -5px;
+height: 250px;
+background: transparent linear-gradient(180deg, #E5F1F7 0%, #FFFFFF 100%) 0% 0% no-repeat padding-box;
+opacity: 1;}

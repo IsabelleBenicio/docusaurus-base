@@ -148,6 +148,17 @@ Este documento tem o propósito de esclarecer a terminologia específica do dom�
  * Arame que dizer lalalalal
  * Arame que dizer lalalalal
 
+ ### L
+ * Arame que dizer lalalalal
+ * Arame que dizer lalalalal
+ * Arame que dizer lalalalal
+ * Arame que dizer lalalalal
+ * Arame que dizer lalalalal
+ * Arame que dizer lalalalal
+ * Arame que dizer lalalalal
+ * Arame que dizer lalalalal
+ * Arame que dizer lalalalal
+
 
  ### M
  * Arame que dizer lalalalal
@@ -162,39 +173,6 @@ Este documento tem o propósito de esclarecer a terminologia específica do dom�
 
 
  ### N
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
-
- ### O
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
-
-### P
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
- * Arame que dizer lalalalal
-
-### Q
  * Arame que dizer lalalalal
  * Arame que dizer lalalalal
  * Arame que dizer lalalalal
